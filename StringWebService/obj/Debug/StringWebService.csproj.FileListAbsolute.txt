@@ -1,0 +1,4 @@
+c:\users\keith sequeira\documents\visual studio 2010\Projects\StringWebService\StringWebService\bin\StringWebService.dll
+c:\users\keith sequeira\documents\visual studio 2010\Projects\StringWebService\StringWebService\bin\StringWebService.pdb
+c:\users\keith sequeira\documents\visual studio 2010\Projects\StringWebService\StringWebService\obj\Debug\StringWebService.dll
+c:\users\keith sequeira\documents\visual studio 2010\Projects\StringWebService\StringWebService\obj\Debug\StringWebService.pdb
